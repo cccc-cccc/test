@@ -1,3 +1,6 @@
+//this is for hitori test 2
+
+
 var sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a == b) {
@@ -6,6 +9,9 @@ var sortNumber = function (number) {
        return a < b ? -1 : 1;
    });
 };
+
+
+
 
 
 
